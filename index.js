@@ -236,8 +236,8 @@ function appMenu() {
     });
   }
 
+  // Makes the output directory if the output isnt made yet.
   function buildTeam() {
-    // Create the output directory if the output path doesn't exist
     if (!fs.existsSync(OUTPUT_DIR)) {
       fs.mkdirSync(OUTPUT_DIR)
     }
