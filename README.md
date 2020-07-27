@@ -25,3 +25,20 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ![Demo](demo/demo.gif)
+
+Git Repo: https://github.com/Ceven8498/Team-Profile-Generator
+
+# Unlisted Video Link
+https://youtu.be/UPefqUs_JBU 
+
+Video Demostraites how to use code.
+
+# --Requires
+ Inquirer -- For User Input
+ Jest -- For testing code
+
+# 4 Classes of Employess
+ Manager
+ Intern
+ Engineer
+ Employee
